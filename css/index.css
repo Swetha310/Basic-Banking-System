@@ -1,0 +1,98 @@
+html {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    font-family:'Times New Roman', Times, serif;
+    background-color:grey;
+  }
+  
+  
+  /* splash screen css ends here  */
+  
+  /* navbar css starts here  */
+  .bg-light {
+    background-color: #f2e9e4 !important;
+  }
+  
+  .navbar-brand {
+    font-family: "Sansita Swashed", cursive;
+    font-size: 1.5rem;
+    color: #5f6368 !important;
+  }
+  
+  .nav-link {
+    color: #5f6368 !important;
+    font-family: "Noto Sans JP", sans-serif;
+  }
+  
+  .nav-link:hover {
+    background-color: #f3f1f1;
+  }
+  /* navbar css ends here  */
+  
+  /* here content css starts here  */
+  .hero-content {
+    height: 100vh;
+    align-items: center;
+    background-color:skyblue;
+    color: #ffffff;
+    padding: 13rem;
+    border-bottom-left-radius: 11000rem;
+    border-bottom-right-radius: 11000rem;
+    border-top-left-radius:11000rem;
+    border-top-right-radius:11000rem;
+    margin-bottom: 1vh;
+  }
+
+  .hero-img {
+    height: 50vh;
+    width: 100%;
+  }
+  
+  .get-started {
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    font-size: 162%;
+    background-color: #fff;
+    color: #039be5 !important;
+    transition: 0.3s;
+  }
+  
+  .get-started:hover {
+    text-decoration: none;
+    background-color: #bfdff0;
+  }
+  /* here content css starts here  */
+  
+  /* get-started-buttons css starts here*/
+  .get-started-content {
+    height: 60vh;
+    background-color: #ff8a65;
+    border-top-left-radius: 42rem;
+    border-top-right-radius: 42rem;
+    border-bottom-right-radius: 42rem;
+    border-bottom-left-radius: 42rem;
+  }
+  
+  .get-started-content .row {
+    padding: 25vh 0;
+  }
+  
+  .get-started-content a {
+    border-radius: 0.5rem;
+    padding: 1rem 2rem;
+    font-size: 162%;
+    background-color: #039be5;
+    color: #fff !important;
+    transition: 0.3s;
+  }
+  
+  .get-started-content a:hover {
+    background-color: #017ab6;
+    text-decoration: none;
+  }
+  /* get-started-buttons css end here*/
+  
+ 
